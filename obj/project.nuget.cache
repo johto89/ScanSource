@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lU+5GGqKGaE=",
+  "success": true,
+  "projectFilePath": "D:\\CodeSample\\.Net\\CodeVulCheck\\SecurityScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
